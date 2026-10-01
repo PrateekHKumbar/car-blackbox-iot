@@ -274,37 +274,3 @@
     );
   }
 
-  export default App;
-
-  ---
-
-  📁 Repository Structure
-
-  car-blackbox-iot/
-  ├── README.md                    # Project overview
-  ├── src/
-  │   ├── main.cpp                 # ESP32 firmware
-  │   ├── sensors.cpp             # Sensor integration
-  │   └── network.cpp             # Network communication
-  ├── docs/
-  │   ├── SCHEMATIC.pdf           # Circuit diagram
-  │   ├── WIRING_GUIDE.md         # Wiring instructions
-  │   └── INSTALLATION.md         # Setup guide
-  ├── frontend/
-  │   ├── src/
-  │   │   └── App.js              # Web dashboard
-  │   ├── public/
-  │   │   └── index.html
-  │   └── package.json
-  ├── videos/
-  │   ├── demo_recorded.mp4        # Demonstration footage
-  │   └── tutorial.mp4            # Setup tutorial
-  ├── images/
-  │   ├── schematic.png           # Circuit diagram
-  │   └── wiring_diagram.jpg      # Assembly guide
-  ├── assets/
-  │   ├── emergency_protocol.pdf  # Emergency procedures
-  │   └── gps_coordinates.txt     # GPS data samples
-  └── .github/
-      └── workflows/
-          └── ci.yml               # GitHub Actions for testing
