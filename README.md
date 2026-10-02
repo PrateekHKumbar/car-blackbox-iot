@@ -34,7 +34,7 @@ In severe vehicle collisions, response latency during the post-crash "Golden Hou
 ### 📂 Project Documentation
 
 Full technical implementation details, circuit diagrams, flowcharts, and test results are documented in the project report:
-- 📄 **[View Full Project Report PDF](./Car_Black_box.pdf)**
+- 📄 **[View Full Project Report PDF](./Car_Black_Box.pdf)**
 
 ---
 
